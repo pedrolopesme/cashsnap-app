@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823160480800",
+    "project_id": "cashsnap-be821",
+    "storage_bucket": "cashsnap-be821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823160480800:android:e683c066154c459cc80845",
+        "android_client_info": {
+          "package_name": "io.code35.cashsnap.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823160480800-l27i6llevd91tu24ttn5kq29db23ffej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFyRfFhKGPJDgeGMZ-i0v6eVF84OjpjbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823160480800-l27i6llevd91tu24ttn5kq29db23ffej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
