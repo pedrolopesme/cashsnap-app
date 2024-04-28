@@ -36,3 +36,7 @@ yarn-error.*
 
 # Local history
 .history*
+
+# prebuild dirs
+/android
+/ios

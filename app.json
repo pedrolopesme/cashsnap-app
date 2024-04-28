@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "CashSnap",
-    "slug": "CashSnap",
+    "slug": "io.code35.cashsnap",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -15,13 +15,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "io.code35.cashsnap.ios"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "io.code35.cashsnap.android"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -30,6 +32,7 @@
       "eas": {
         "projectId": "5cdefc88-099d-451b-8cbd-3048c6a6d371"
       }
-    }
+    },
+    "scheme": "io.code35.cashsnap"
   }
 }
